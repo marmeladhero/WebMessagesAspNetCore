@@ -1,0 +1,17 @@
+*.obj
+*.bin
+.vs
+.vs/
+.idea/
+.vscode/
+*/.vs
+[Bb]in
+[Dd]ebug*/
+.**/
+.*
+!/.gitignore
+obj/
+*.web.config
+**/*.Development.json
+**/*.Staging.json
+**/*.Production.json
