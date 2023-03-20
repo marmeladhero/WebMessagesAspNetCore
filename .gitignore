@@ -15,3 +15,5 @@ obj/
 **/*.Development.json
 **/*.Staging.json
 **/*.Production.json
+tests/WebUI.Tests/
+
