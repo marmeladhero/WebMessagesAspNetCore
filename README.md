@@ -6,10 +6,10 @@ Web messages for asp net core
 dotnet add package WebMessages
 ```
 ```bash
-dotnet WebMessages.Providers.Bootstrap5
+dotnet add package WebMessages.Providers.Bootstrap5
 ```
 ```bash
-dotnet WebMessages.Storages.DistributedCacheStorage
+dotnet add package WebMessages.Storages.DistributedCacheStorage
 ```
 
 ### Usage
